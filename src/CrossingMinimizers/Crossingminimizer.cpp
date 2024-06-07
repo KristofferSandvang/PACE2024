@@ -17,6 +17,3 @@ void CrossingMinimizer::writeSolution() {
 std::vector<Vertex>* CrossingMinimizer::getNewB() {
     return &B;
 }
-
-// Destructor 
-CrossingMinimizer::~CrossingMinimizer() {}
