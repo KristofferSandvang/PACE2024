@@ -15,9 +15,6 @@ add_executable(PACE2024
     CrossingMinimizers/Median.cpp
     CrossingMinimizers/OptimizedBC.cpp
     CrossingMinimizers/OptimizedMedian.cpp
-    CrossingMinimizers/ParentMinimizer.cpp
     CrossingMinimizers/BarycenterMed.cpp
     CrossingMinimizers/MedianBary.cpp
-    CrossingMinimizers/BarycenterRev.cpp
-    CrossingMinimizers/MedianRev.cpp
 )
