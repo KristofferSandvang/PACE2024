@@ -25,11 +25,11 @@ make
 Once the solver has been compiled and you have a file containing a graph that follows the [input format specified by PACE](https://pacechallenge.org/2024/io/), you can run the solver as follows:
 
 ```
-$ ./PACE2024.exe < path/to/graph.gr
+$ ./PACE2024 < path/to/graph.gr
 ```
 
 Or if you prefer writing the graph in the terminal, you can write it as follows:
 
 ```
-$ ./PACE2024.exe
+$ ./PACE2024
 ```
